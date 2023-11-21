@@ -1,3 +1,6 @@
+# INTRODUCTION
+Database connection tool built using PHP and MySQL. Designed to simplify and optimize the process of establishing and managing database connections in web applications.
+This project provides a robust and user-friendly solution, addressing the challenges developers often face when handling database connectivity.
 # INSTALLATION
 
 Clone the repository using the following command:
@@ -5,10 +8,8 @@ Clone the repository using the following command:
 ```bash
 git clone https://github.com/Mohamed-Haneef/Database_Connection_PHP  
 ```
-(Free source code!!)<br><br>
-# INTRODUCTION
-Database connection tool built using PHP and MySQL. Designed to simplify and optimize the process of establishing and managing database connections in web applications.
-This project provides a robust and user-friendly solution, addressing the challenges developers often face when handling database connectivity.<br><br>
+(Free source code!!)
+
 # CONFIGURATION
 ### config.php
     $__site_config_path = $_SERVER['DOCUMENT_ROOT'] . '/../config.json';
